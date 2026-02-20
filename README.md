@@ -67,7 +67,7 @@ SlotIn은 문제를 이렇게 해결합니다:
 ### **👤 Role**
 | Role | Name | Links |
 |------|------|-------|
-| PM | 이가원 | [LinkedIn](www.linkedin.com/in/gawonmonicalee)|
+| PM | 이가원 | [LinkedIn](https://www.linkedin.com/in/gawonmonicalee/)|
 | PD | 고승아 | [LinkedIn](https://www.linkedin.com/in/seungah-sia-ko/) / [Behance](https://www.behance.net/seungahsiako) |
 | FE | 김민경 | [GitHub](https://github.com/min-gyoung) |
 | FE | 김동민 | [GitHub](https://github.com/GthingkingG) / [LinkedIn](https://www.linkedin.com/in/guma1/) |
