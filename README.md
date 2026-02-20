@@ -65,11 +65,6 @@ SlotIn은 문제를 이렇게 해결합니다:
 ---
 
 ### **👤 Role**
-
-| 이가원(링크) | 고승아(링크) | 김민경(링크) | 김동민(링크) |
-| --- | --- | --- | --- |
-| PM | PD | FE | FE |
-
 | Role | Name | Links |
 |------|------|-------|
 | PM | 이가원 | [LinkedIn](www.linkedin.com/in/gawonmonicalee)|
